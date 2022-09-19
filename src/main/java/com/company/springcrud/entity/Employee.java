@@ -1,4 +1,4 @@
-package com.company.springcrud;
+package com.company.springcrud.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
